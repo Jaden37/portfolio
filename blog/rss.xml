@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Jules Peguet Blog</title>
-        <link>https://jaden37.github.io/blog</link>
+        <link>https://j-peguet.github.io/portfolio/blog</link>
         <description>Jules Peguet Blog</description>
         <lastBuildDate>Tue, 16 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Blog Launching]]></title>
-            <link>https://jaden37.github.io/blog/blog-launching</link>
+            <link>https://j-peguet.github.io/portfolio/blog/blog-launching</link>
             <guid>blog-launching</guid>
             <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello]]></description>

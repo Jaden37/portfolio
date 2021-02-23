@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jaden37.github.io/blog</id>
+    <id>https://j-peguet.github.io/portfolio/blog</id>
     <title>Jules Peguet Blog</title>
     <updated>2021-02-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jaden37.github.io/blog"/>
+    <link rel="alternate" href="https://j-peguet.github.io/portfolio/blog"/>
     <subtitle>Jules Peguet Blog</subtitle>
-    <icon>https://jaden37.github.io/img/favicon.ico</icon>
+    <icon>https://j-peguet.github.io/portfolio/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Blog Launching]]></title>
         <id>blog-launching</id>
-        <link href="https://jaden37.github.io/blog/blog-launching"/>
+        <link href="https://j-peguet.github.io/portfolio/blog/blog-launching"/>
         <updated>2021-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello]]></summary>
     </entry>
