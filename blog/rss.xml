@@ -4,9 +4,16 @@
         <title>Jules Peguet Blog</title>
         <link>https://j-peguet.github.io/portfolio/blog</link>
         <description>Jules Peguet Blog</description>
-        <lastBuildDate>Tue, 16 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Réussir sa veille techno]]></title>
+            <link>https://j-peguet.github.io/portfolio/blog/reussir-sa-veille-techno</link>
+            <guid>reussir-sa-veille-techno</guid>
+            <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ne fais pas de la veille pour faire de la veille, il faut avoir l’envie]]></description>
+        </item>
         <item>
             <title><![CDATA[Blog Launching]]></title>
             <link>https://j-peguet.github.io/portfolio/blog/blog-launching</link>
