@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{80:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"R\xe9ussir sa veille techno","permalink":"/blog/reussir-sa-veille-techno"},{"title":"Blog Launching","permalink":"/blog/blog-launching"}]}')}}]);
