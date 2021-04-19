@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{103:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"veille-techno","name":"veille techno","count":1,"permalink":"/blog/tags/veille-techno"}')}}]);
